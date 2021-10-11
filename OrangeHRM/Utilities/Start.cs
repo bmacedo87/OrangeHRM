@@ -23,7 +23,7 @@ namespace OrangeHRM.Utilities
         public void TearDown()
         {
             //Close the browser
-            driver.Quit();
+            //driver.Quit();
 
         }
     }
